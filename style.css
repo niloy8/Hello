@@ -1,0 +1,44 @@
+* {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.Header {
+    display: flex;
+    padding: 5%;
+}
+
+.im {
+    width: 50%;
+
+}
+
+img {
+    width: 200px;
+    height: auto;
+    margin-left: 50px;
+}
+
+.pg {
+    width: 500px;
+    text-align: justify;
+    margin-bottom: 30px;
+}
+
+.orange_color {
+    color: orangered;
+}
+
+a {
+    background-image: linear-gradient(orangered, rgb(163, 155, 47));
+    text-decoration: none;
+
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: antiquewhite;
+}
+
+a:hover {
+    background: orange;
+}
